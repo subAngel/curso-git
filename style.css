@@ -21,3 +21,23 @@ h1{
     width: 50px;
     height: 50px;
 }
+
+.container {
+    margin-top: 30px;
+    padding: 60px;
+}
+
+.post {
+    background-color: rgb(219, 70, 90);
+    margin-bottom: 30px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 12px;
+}
+
+.post h4{
+    color: tan;
+}
+
+.post span{
+    color: rgb(43, 35, 65);
+}
